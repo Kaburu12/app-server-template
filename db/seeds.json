@@ -7,16 +7,16 @@
 		"description": "DELL Refurbished 10TH GEN DELL 3189 Pentium TouchScreen - X-360 Ram 4GB SSD 128GB -11.6",
 		"price":"Ksh.23,000",
 		"category":"electronics",
-		"product-id":"lap2"
+		"code":"lap2"
 	  },
 	  {
 		"id": 2,
 		"name": "Tecno Obsidian ",
 		"image": "https://ke.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/12/975675/1.jpg?1368",
-		"description": "Tecno Obsidian Black POVA NEO, 64GB ROM + 4GB RAM, 6.8'', 6000mAh",
+		"description": "Tecno Obsidian Black POVA NEO, 62GB ROM + 4GB RAM, 6.8'', 6000mAh",
 		"price":"Ksh.15,000",
 		"category":"electronics",
-		"product-id":"phone1"
+		"code":"phone13"
 	  },
 	  {
 		"id": 3,
@@ -25,7 +25,7 @@
 		"description": "Vision Plus Frameless 32 Digital HD LED TV - Black + FREE WALL MOUNT",
 		"price":"Ksh.11,000",
 		"category":"electronics",
-		"product-id":"tv6"
+		"code":"tv6"
 	  },
 	  {
 		"id": 4,
@@ -34,7 +34,7 @@
 		"description": "WEYON 816 3.1ch Blutooth Speaker Home Threater",
 		"price":"Ksh.5,000",
 		"category":"electronics",
-		"product-id":"woofer3"
+		"code":"woofer43"
 	  },
 	  {
 		"id": 5,
@@ -43,7 +43,7 @@
 		"description": "Oraimo Smart Watch 1.69'' IPS Screen IP68 Waterproof",
 		"price":"Ksh.5,300",
 		"category":"Accessories",
-		"product-id":"smart1"
+		"code":"smart1"
 	  },
 	  {
 		"id": 6,
@@ -52,7 +52,7 @@
 		"description": "Wlisth Men's European Business Waterproof Watch - BLACK",
 		"price":"Ksh.1,000",
 		"category":"Watches",
-		"product-id":"watch3"
+		"code":"watch3"
 	  },
 	  {
 		"id": 7,
@@ -61,7 +61,7 @@
 		"description": "Generic LED 2.4G Rechargeable Wireless Mouse",
 		"price":"Ksh.530",
 		"category":"Accessories",
-		"product-id":"mouse7"
+		"code":"mouse7"
 	  },
 	  {
 		"id": 8,
@@ -70,7 +70,7 @@
 		"description": "Sony Computer Entertainment PS5 Playstation 5 Console Standard Disc Version 825GB",
 		"price":"Ksh.105,000",
 		"category":"Gaming",
-		"product-id":"ps1"
+		"code":"ps1"
 	  }
 	],
 
@@ -78,9 +78,12 @@
 	[
 		{"id": 1,
 		"identity": "John Paul",
-		"product-id": "mzq",
+		"code": "TV1",
+		"product":"Sony Smart Tv 32 inch",
 		"location": "Nairobi",
-		"category":"electronics"}
+		"category":"electronics",
+		"review":"Access shop offers best services"
+	}
 	]
   }
 
